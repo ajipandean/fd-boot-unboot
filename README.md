@@ -1,5 +1,5 @@
 # Flash Drive Boot & Unboot
-This repo created for booting and unbooting flash drive via CLI quickly and easily without writing long script.
+This repo created for booting and unbooting flash drive via CLI on Linux quickly and easily without writing long script.
 
 ## Getting Started
 First of all, clone this repo to your local computer
